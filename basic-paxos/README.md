@@ -1,4 +1,4 @@
-##PaxosLam.tla
+## PaxosLam.tla
 This is the TLA+ specification of Basic Paxos (single-valued) Paxos as in
 <https://github.com/tlaplus/v1-tlapm/blob/master/examples/paxos/Paxos.tla>.
 Following modifications have been made to the file:
