@@ -1,6 +1,5 @@
 1. The file Basic Paxos is slightly modified from the online version located at
-   [https://github.com/tlaplus/v1-tlapm/blob/master/examples/
-paxos/Paxos.tla](https://github.com/tlaplus/v1-tlapm/blob/master/examples/
+   [https://github.com/tlaplus/v1-tlapm/blob/master/examples/paxos/Paxos.tla](https://github.com/tlaplus/v1-tlapm/blob/master/examples/
 paxos/Paxos.tla)
    The changes include:
    
