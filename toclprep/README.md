@@ -26,7 +26,7 @@ as described in \[1\].
 An improved TLA+ specification and proof of Multi-Paxos with Preemption compared to MultiPaxosPreemptionFM16.tla. These improvements are described in \[2\].
 
 # Notes
-The MultiPaxos proofs in files *FM16.tla were checked using TLAPS version 1.5.3 and 1.5.6. The improved MultiPaxos proofs in other files were checked using version 1.5.6. A summary of the proof statistics are reported in \[2\].
+The MultiPaxos proofs in files *FM16.tla were checked using TLAPS version 1.5.3 and 1.5.6. The improved MultiPaxos proofs in other files were checked using version 1.5.6. A summary of the proof statistics is reported in \[2\].
 
 # References
 \[1\] Chand, S., Liu, Y. A., & Stoller, S. D. (2016, November). Formal Verification of Multi-Paxos for Distributed Consensus. In International Symposium on Formal Methods (pp. 119-136). [SpringerLink](https://link.springer.com/chapter/10.1007/978-3-319-48989-6_8)
