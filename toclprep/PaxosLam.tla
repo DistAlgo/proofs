@@ -1,0 +1,1 @@
+../basic-paxos/PaxosLam.tla
