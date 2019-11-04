@@ -15,7 +15,7 @@ Following modifications have been made to the file:
 
        This is done because our goal is to prove Safety of the specification, not to prove that it also refines some other specification.
 
-2. PaxosHistVarNFM.tla:
+2. PaxosHistVarNFM18.tla:
 TLA+ specification and proof of Basic Paxos using History variables as described in \[3\].
 
 # multi-paxos
@@ -27,7 +27,7 @@ TLA+ specification and proof of Multi-Paxos as described in \[1\].
 2. MultiPaxos.tla:
 An improved TLA+ specification and proof of Multi-Paxos compared to MultiPaxosFM16.tla. These improvements are described in \[2\].
 
-3. MultiPaxosHistVarNFM.tla:
+3. MultiPaxosHistVarNFM18.tla:
 TLA+ specification and proof of Multi-Paxos using History variables as described in \[3\].
 
 # multi-paxos-preemption
@@ -40,7 +40,7 @@ as described in \[1\].
 2. MultiPaxosPreemption.tla:
 An improved TLA+ specification and proof of Multi-Paxos with Preemption compared to MultiPaxosPreemptionFM16.tla. These improvements are described in \[2\].
 
-3. MultiPaxosPreemptionHistVarNFM.tla:
+3. MultiPaxosPreemptionHistVarNFM18.tla:
 TLA+ specification and proof of Multi-Paxos with Preemption using History variables as described in \[3\].
 
 # Notes
