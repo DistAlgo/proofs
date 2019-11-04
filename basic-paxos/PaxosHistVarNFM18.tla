@@ -1,4 +1,4 @@
-------------------------------- MODULE PaxosHistVarNFM -------------------------------
+------------------------------- MODULE PaxosHistVarNFM18 -------------------------------
 (***************************************************************************)
 (* This is a TLA+ specification of the Paxos Consensus algorithm,          *)
 (* described in                                                            *)
