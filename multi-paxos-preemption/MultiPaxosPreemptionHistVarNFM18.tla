@@ -1,4 +1,4 @@
-------------------------------- MODULE MultiPaxosPreemptionHistVarNFM -------------------------------
+------------------------------- MODULE MultiPaxosPreemptionHistVarNFM18 -------------------------------
 (***************************************************************************)
 (* This is a TLA+ specification of the MultiPaxos Consensus algorithm,     *)
 (* described in                                                            *)
