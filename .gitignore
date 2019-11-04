@@ -1,2 +1,8 @@
 *.tlaps
 *.toolbox
+*.aux
+*.pdf
+*.dvi
+*.log
+*.tex
+*.py
